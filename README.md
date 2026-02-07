@@ -1,4 +1,4 @@
-# WeMod-AdBlocker
+# Wand (WeMod) -AdBlocker
 a highly aggressive WeMod Advertisement Blocker
 
 Right-click > Run As Admininstrator
