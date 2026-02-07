@@ -1,0 +1,33 @@
+Open:
+
+C:\Windows\System32\drivers\etc\hosts
+
+Paste these lines at the end of your host file:
+
+0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 ads.google.com
+0.0.0.0 www.googleadservices.com
+:: doubleclick.net
+:: googlesyndication.com
+:: googleadservices.com
+:: adservice.google.com
+:: tpc.googlesyndication.com
+:: static.doubleclick.net
+:: googleads.g.doubleclick.net
+:: securepubads.g.doubleclick.net
+:: partnerad.l.doubleclick.net
+:: ads.google.com
+:: www.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 creative.ak.fbcdn.net
