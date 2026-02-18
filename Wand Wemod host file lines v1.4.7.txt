@@ -1,0 +1,305 @@
+(created by Seth@QWiiPlaza)
+
+Open:
+
+C:\Windows\System32\drivers\etc\hosts
+
+Paste these lines at the end of your host file:
+
+# --- GOOGLE DOUBLECLICK (Ad Exchange & Core) ---
+0.0.0.0 doubleclick.net
+0.0.0.0 www.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+
+# --- GOOGLE SYNDICATION ---
+0.0.0.0 googlesyndication.com
+0.0.0.0 www.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
+
+# --- GOOGLE AD SERVICES ---
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 ads.google.com
+
+# --- GOOGLE TAG MANAGER & ANALYTICS ---
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+
+# --- GOOGLE AD QUALITY ---
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+
+# --- RUBICON PROJECT / MAGNITE (Header Bidding) ---
+0.0.0.0 rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 pixel-eu.rubiconproject.com
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 beacon-iad6.rubiconproject.com
+0.0.0.0 beacon-iad2.rubiconproject.com
+0.0.0.0 beacon-nf.rubiconproject.com
+0.0.0.0 s.update.rubiconproject.com
+0.0.0.0 token.rubiconproject.com
+0.0.0.0 secure-assets.rubiconproject.com
+
+# --- SMARTADSERVER (Heavy Infrastructure) ---
+0.0.0.0 smartadserver.com
+0.0.0.0 rtb-csync.smartadserver.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 ssbsync.smartadserver.com
+0.0.0.0 ssbsync-global.smartadserver.com
+0.0.0.0 csync.smartadserver.com
+
+# --- SHARETHROUGH (AWS-Heavy) ---
+0.0.0.0 sharethrough.com
+0.0.0.0 btlr.sharethrough.com
+0.0.0.0 match.sharethrough.com
+0.0.0.0 eqt-gc.rendering.sharethrough.com
+
+# --- CRITEO (Retargeting) ---
+0.0.0.0 criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 mug.criteo.com
+0.0.0.0 ns1.criteo.com
+0.0.0.0 ads.us.criteo.com
+0.0.0.0 ssp-sync.criteo.com
+0.0.0.0 static.criteo.net
+0.0.0.0 cat.us5.us.criteo.com
+0.0.0.0 client-side-metrics.us.criteo.net
+
+# --- PUBMATIC (Header Bidding) ---
+0.0.0.0 pubmatic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 image4.pubmatic.com
+0.0.0.0 image8.pubmatic.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 hbopenbid-nje.pubmatic.com
+0.0.0.0 ow-nje1.pubmatic.com
+0.0.0.0 ow-nje1c.pubmatic.com
+
+# --- APPNEXUS / XANDR ---
+0.0.0.0 adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 prebid.adnxs.com
+
+# --- ADSAFEPROTECTED (Verification) ---
+0.0.0.0 adsafeprotected.com
+0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 unified.adsafeprotected.com
+0.0.0.0 static.adsafeprotected.com
+
+# --- ID5 (User Tracking) ---
+0.0.0.0 id5-sync.com
+0.0.0.0 api.id5-sync.com
+
+# --- OUTBRAIN (Content Discovery) ---
+0.0.0.0 outbrain.com
+0.0.0.0 b1sync.outbrain.com
+0.0.0.0 chidc2.outbrain.org
+0.0.0.0 nydc1.outbrain.org
+
+# --- ADFORM ---
+0.0.0.0 adform.net
+0.0.0.0 cm.adform.net
+0.0.0.0 c1.adform.net
+0.0.0.0 a2.adform.net
+
+# --- LOOPME ---
+0.0.0.0 loopme.me
+0.0.0.0 csync.loopme.me
+
+# --- CONTEXTWEB / PULSEPOINT ---
+0.0.0.0 contextweb.com
+0.0.0.0 bh.contextweb.com
+
+# --- LIJIT / SOVRN ---
+0.0.0.0 lijit.com
+0.0.0.0 ap.lijit.com
+
+# --- ESKIMI ---
+0.0.0.0 eskimi.com
+0.0.0.0 ittpx.eskimi.com
+
+# --- ADKERNEL ---
+0.0.0.0 adkernel.com
+0.0.0.0 sync.adkernel.com
+
+# --- AMAZON ADS ---
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-dtb-cf.amazon-adsystem.com
+
+# --- IIONADS ---
+0.0.0.0 iionads.com
+0.0.0.0 tracker.iionads.com
+0.0.0.0 tracker-b.iionads.com
+0.0.0.0 ads-tag.iionads.com
+0.0.0.0 ads-2476b.iionads.com
+0.0.0.0 ads-2476c.iionads.com
+
+# --- YIELDMO ---
+0.0.0.0 yieldmo.com
+0.0.0.0 ads.yieldmo.com
+
+# --- STACKADAPT ---
+0.0.0.0 stackadapt.com
+0.0.0.0 sync.srv.stackadapt.com
+
+# --- TAPAD (Cross-Device Tracking) ---
+0.0.0.0 tapad.com
+0.0.0.0 pixel.tapad.com
+
+# --- ZEMANTA ---
+0.0.0.0 zemanta.com
+0.0.0.0 b1sync.zemanta.com
+
+# --- SEEDTAG ---
+0.0.0.0 seedtag.com
+0.0.0.0 s.seedtag.com
+
+# --- ADITUDE ---
+0.0.0.0 aditude.io
+0.0.0.0 geo.aditude.io
+0.0.0.0 event-ingestor.judy.pnap.aditude.cloud
+
+# --- THE TRADE DESK ---
+0.0.0.0 adsrvr.org
+0.0.0.0 match.adsrvr.org
+
+# --- DEEPINTENT ---
+0.0.0.0 deepintent.com
+0.0.0.0 match.deepintent.com
+
+# --- COLOSSUSSSP ---
+0.0.0.0 colossusssp.com
+0.0.0.0 sync.colossusssp.com
+
+# --- UNRULYMEDIA ---
+0.0.0.0 unrulymedia.com
+0.0.0.0 sync.targeting.unrulymedia.com
+
+# --- E-VOLUTION ---
+0.0.0.0 e-volution.ai
+0.0.0.0 sync.e-volution.ai
+
+# --- ONETAG ---
+0.0.0.0 onetag-sys.com
+
+# --- STORYGIZE ---
+0.0.0.0 storygize.net
+0.0.0.0 sid.storygize.net
+
+# --- 1RX ---
+0.0.0.0 1rx.io
+0.0.0.0 sync.1rx.io
+
+# --- BTTRACK ---
+0.0.0.0 bttrack.com
+
+# --- SERVENOBID ---
+0.0.0.0 servenobid.com
+0.0.0.0 ads.servenobid.com
+0.0.0.0 ads-tag-asc.ortb.net
+
+# --- SNIGELWEB ---
+0.0.0.0 snigelweb.com
+0.0.0.0 adserv.snigelweb.com
+
+# --- YEAHMOBI ---
+0.0.0.0 yeahmobi.com
+0.0.0.0 gw-iad-ym.yeahmobi.com
+0.0.0.0 yeahtargeter.com
+0.0.0.0 bid-iad-static.yeahtargeter.com
+
+# --- WEMOD / ADLIGHTNING ---
+0.0.0.0 adlightning.com
+0.0.0.0 wemod-opjs-tagan.adlightning.com
+0.0.0.0 metrics.wemod.com
+
+# --- PRIVACY MANAGER ---
+0.0.0.0 privacymanager.io
+0.0.0.0 launchpad.privacymanager.io
+0.0.0.0 launchpad-wrapper.privacymanager.io
+
+# --- OPERA ADS ---
+0.0.0.0 t.adx.opera.com
+
+# --- ADMANMEDIA ---
+0.0.0.0 admanmedia.com
+0.0.0.0 cs.admanmedia.com
+
+# --- MEASUREADV ---
+0.0.0.0 measureadv.com
+
+# --- KRUSHMEDIA ---
+0.0.0.0 krushmedia.com
+0.0.0.0 cs.krushmedia.com
+
+# --- PLAYDIGO ---
+0.0.0.0 playdigo.com
+0.0.0.0 cs.playdigo.com
+
+# --- AGKN (Neustar) ---
+0.0.0.0 agkn.com
+0.0.0.0 aa.agkn.com
+
+# --- LIADM (Index Exchange) ---
+0.0.0.0 liadm.com
+0.0.0.0 i.liadm.com
+
+# --- ADROLL ---
+0.0.0.0 adroll.com
+0.0.0.0 d.adroll.com
+
+# --- BRAINLY ADS ---
+0.0.0.0 hb.brainlyads.com
+0.0.0.0 report2.hb.brainlyads.com
+
+# --- LINKEDIN ADS ---
+0.0.0.0 px.ads.linkedin.com
+
+# --- MARPHEZIS ---
+0.0.0.0 marphezis.com
+0.0.0.0 rt.marphezis.com
+
+# --- CPMSTAR ---
+0.0.0.0 cpmstar.com
+0.0.0.0 server.cpmstar.com
+
+# --- NEXTMILLMEDIA ---
+0.0.0.0 nextmillmedia.com
+0.0.0.0 hb-analytics.nextmillmedia.com
+
+# --- ADCHOICES ---
+0.0.0.0 adchoices.com
+0.0.0.0 track.adchoices.com
+
+# --- SCORECARDRESEARCH ---
+0.0.0.0 scorecardresearch.com
+
+# --- FACEBOOK CREATIVE CDN ---
+0.0.0.0 creative.ak.fbcdn.net
