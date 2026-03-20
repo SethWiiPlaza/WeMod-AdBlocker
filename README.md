@@ -1,7 +1,7 @@
 # Wand (WeMod) -AdBlocker
 a highly aggressive WeMod Advertisement Blocker
 
-# Version 1.4 instructions
+# Version 2.0 instructions
 Right-click > Run program As Admininstrator
 
 After running program, open text file (Wand Wemod host file lines.txt) and copy/paste list of advertisement domains to your windows host file
